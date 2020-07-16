@@ -1,1 +1,0 @@
-# Rajeshpadigela.github.io

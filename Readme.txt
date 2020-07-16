@@ -1,4 +1,2 @@
-Hello , this is my first git project.
-Suggest any changes if needed.
-
+Personal Portfolio
 Thank you!
